@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figuras", "Figuras\Figuras.csproj", "{16F72423-D61B-4F3D-ACC0-B386DEFB5E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figuras_GEO", "Figuras_GEO\Figuras_GEO.csproj", "{A84FC43D-C580-481A-B5DA-D4B1D213D728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F72423-D61B-4F3D-ACC0-B386DEFB5E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F72423-D61B-4F3D-ACC0-B386DEFB5E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F72423-D61B-4F3D-ACC0-B386DEFB5E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F72423-D61B-4F3D-ACC0-B386DEFB5E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84FC43D-C580-481A-B5DA-D4B1D213D728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84FC43D-C580-481A-B5DA-D4B1D213D728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84FC43D-C580-481A-B5DA-D4B1D213D728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84FC43D-C580-481A-B5DA-D4B1D213D728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464C8170-354E-4DE8-9A9C-6849CE22011C}
+	EndGlobalSection
+EndGlobal
